@@ -7,12 +7,17 @@ Always wanted to monitor your build using a lava lamp, light, fan, any other pos
 
 ### Things you need: 
 
-http://amzn.to/1TARIfm - Raspbery Pi + stuff
-http://amzn.to/1Qu69vd - Storm trooper
-http://amzn.to/1Q6ltPd - Skull Lava Lamp
-http://amzn.to/1Qu6u0Y - 5V relay
-http://amzn.to/1Q6m4jT - 3Ft extension cord 
-http://amzn.to/1QxIMqU - Electrical Tape
+[Raspbery Pi + stuff](http://amzn.to/1TARIfm) 
+
+[Storm trooper](http://amzn.to/1Qu69vd)
+
+[Skull Lava Lamp](http://amzn.to/1Q6ltPd)
+
+[5V relay](http://amzn.to/1Qu6u0Y)
+
+[3Ft extension cord ](http://amzn.to/1Q6m4jT)
+
+[Electrical Tape](http://amzn.to/1QxIMqU)
 
 ### Setup the hardware
 
